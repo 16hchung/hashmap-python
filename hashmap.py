@@ -1,4 +1,5 @@
-# Heejung Chung, KPCB 2018 Application, Stanford Class of '21
+# Heejung Chung
+# Implementation of a HashMap class without use of dictionaries
 # TO RUN:
 # 	1. open terminal
 # 	2. type... $ python3 hashmap.py

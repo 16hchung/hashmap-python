@@ -1,4 +1,5 @@
-# Heejung Chung, KPCB 2018 Application, Stanford Class of '21
+# Heejung Chung
+# Tests for hashmap.py - implementation of HashMap class
 # TO RUN:
 # 	1. open terminal
 # 	2. type... $ python3 test.py
